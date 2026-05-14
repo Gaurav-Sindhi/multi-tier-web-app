@@ -155,12 +155,6 @@ console.log("Backend running on port 3000");
 
 ![Backend Response](screenshots/Screenshot%202026-04-26%20201021.png)
 
----  
-
-## 🔹 AWS Infrastructure Automation using boto3
-
-![AWS Automation](screenshots/Screenshot%202026-04-27%20003815.png)
-
 ---
 
 ## 🔹 Amazon RDS Database Instance
@@ -213,7 +207,6 @@ multi-tier-web-app/
 │     ├── Screenshot 2026-04-26 200848.png
 │     ├── Screenshot 2026-04-26 200911.png
 │     ├── Screenshot 2026-04-26 201021.png
-│     ├── Screenshot 2026-04-27 003815.png
 │     └── Screenshot 2026-05-14 1821126.png
 ```
 
